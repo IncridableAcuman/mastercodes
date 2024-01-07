@@ -1,1 +1,2 @@
 # mastercodes
+C++ in class
